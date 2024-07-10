@@ -298,6 +298,7 @@ section.experience{
 .experiencia__botao--repo:hover {
     background-color: var(--cor-de-link);
     color: white;
+    cursor: pointer;
 }
 
 .experiencia__botao--repo:active {
@@ -320,6 +321,7 @@ section.experience{
 .experiencia__botao--demo:hover {
     background-color: transparent;
     color: var(--cor-de-link);
+    cursor: pointer;
 }
 
 .experiencia__botao--demo:active {
