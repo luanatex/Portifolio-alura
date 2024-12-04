@@ -6,6 +6,10 @@
    --branco: white;
 }
 
+html {
+   scroll-behavior: smooth;
+}
+
 body {
     box-sizing: border-box;
     background-color: var(--cor-de-fundo) ;
@@ -33,6 +37,7 @@ section.menu{
     justify-content: space-between;
     margin: 32px 10% 32px 10%;
     gap: 10%;
+   position: sticky;
 }
 
 header {
