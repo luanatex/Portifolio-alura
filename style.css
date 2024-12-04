@@ -37,7 +37,7 @@ section.menu{
     justify-content: space-between;
     margin: 32px 10% 32px 10%;
     gap: 10%;
-   position: sticky;
+   position: fixed;
 }
 
 header {
